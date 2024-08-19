@@ -10,6 +10,8 @@ Try the Coffee Chat app here:
 
 Upload a sample business report (available [here](data/sample_biz_report.pdf)) or upload your own for analysis!
 
+*You can also replicate using [GoogleColab](https://colab.research.google.com/drive/1jljq-pJMhUFxBhReoFVaIpYJpCvgHt2f?usp=sharing)
+
 ## Features
 - Conversational chat for **real-time financial and ESG analysis** for professionals and businesses to aid in informed decision-making
 - **Automated data extraction** and **summarization** of unstructured business data and key growth metrics
