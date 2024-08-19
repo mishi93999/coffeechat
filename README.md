@@ -3,7 +3,7 @@
 Welcome to **Coffee Chat**! This Solar LLM-powered chatbot is designed to streamline **financial** and **ESG (Environmental, Social, and Governance)** analysis for **small and medium-sized enterprises (SMEs)**. By utilizing **Solar-LLM** from Upstage AI, Coffee Chat automates the processing of unstructured data like **R&D**, **Intellectual Property (IP)**, and **employee status updates**, delivering comprehensive approach to understanding key company growth metrics. Whether you're a professional, business owner, or enthusiast, this app offers a platform to boost transparency and make **informed decisions** based on AI-generated analysis.
 
 ## Run the App
-**Coffee Chat** is deployed on [Hugging Face Spaces](https://huggingface.co/spaces).
+**Coffee Chat** is deployed on Hugging Face Spaces.
 
 Try the Coffee Chat app here:  
 👉 [Coffee Chat on Hugging Face](https://huggingface.co/spaces/smerp/coffeechat)
