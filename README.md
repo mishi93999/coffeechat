@@ -8,7 +8,7 @@ Welcome to **Coffee Chat**! This Solar LLM-powered chatbot is designed to stream
 Try the Coffee Chat app here:  
 👉 [Coffee Chat on Hugging Face](https://huggingface.co/spaces/smerp/coffeechat)
 
-Upload a sample business report (available [here](data/sample_biz_report_2024.pdf)) or upload your own for analysis!
+Upload a sample business report (available [here](data/sample_biz_report.pdf)) or upload your own for analysis!
 
 ## Features
 - Conversational chat for **real-time financial and ESG analysis** for professionals and businesses to aid in informed decision-making
