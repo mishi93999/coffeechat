@@ -5,10 +5,10 @@ Welcome to **Coffee Chat**! This Solar LLM-powered chatbot is designed to stream
 ## Run the App
 **Coffee Chat** is deployed on [Hugging Face Spaces](https://huggingface.co/spaces).
 
-Try the Coffee Chat app here:
+Try the Coffee Chat app here:  
 👉 [Coffee Chat on Hugging Face](https://huggingface.co/spaces/smerp/coffeechat)
 
-Upload a sample business report (available [here](https://github.com/mishi93999/coffeechat/blob/main/sample_biz_report_2024.pdf)) or upload your own for analysis!
+Upload a sample business report (available [here](data/sample_biz_report_2024.pdf)) or upload your own for analysis!
 
 ## Features
 - Conversational chat for **real-time financial and ESG analysis** for professionals and businesses to aid in informed decision-making
@@ -25,12 +25,15 @@ git clone https://github.com/mishi93999/coffeechat.git
 cd coffeechat
 pip install -r requirements.txt
 ```
+2. Run the App
+   
 ## Tech Stack
 - Python
 - Solar LLM from Upstage AI
 - Gradio for the user interface
 - PyMuPDF (Fitz) for PDF extraction
 - OpenAI Client
+  
 ![techstack img](https://github.com/mishi93999/coffeechat/blob/main/data/tech_stack.png)
 
 ## Contact
