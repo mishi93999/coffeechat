@@ -25,7 +25,11 @@ git clone https://github.com/mishi93999/coffeechat.git
 cd coffeechat
 pip install -r requirements.txt
 ```
-2. Run the App
+2. Run the app locally
+
+```bash
+python app.py
+```
    
 ## Tech Stack
 - Python
